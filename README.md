@@ -1,1 +1,1 @@
-# ImageClassifiacation
+# ImageClassification
